@@ -1,0 +1,11 @@
+
+    {
+        "db": {
+            "user": "postgres",
+            "password": "123",
+            "port": "5432",
+            "host": "localhost",
+            "database": "northwind"
+}}
+    
+

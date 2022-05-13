@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cypress-postgresql": "^1.0.8"
+  },
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "pg": "^8.7.3"
+  },
+  "name": "cypress-postgresql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mateus",
+  "license": "MIT",
+  "description": ""
+}
